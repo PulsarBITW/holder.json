@@ -1,0 +1,30 @@
+{
+  "userOne": [
+    {
+      "name": "Bob",
+      "id": 1,
+      "created": "07.09.2023"
+    }
+  ],
+  "userTwo": [
+    {
+      "name": "Briet",
+      "id": 2,
+      "created": "07.09.2023"
+    }
+  ],
+  "userThree": [
+    {
+      "name": "John",
+      "id": 3,
+      "created": "07.09.2023"
+    }
+  ],
+  "userFour": [
+    {
+      "name": "Aria",
+      "id": 4,
+      "created": "07.09.2023"
+    }
+  ]
+}
